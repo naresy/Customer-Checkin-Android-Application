@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA500</color>
+    <color name="colorPrimaryDark">#ff8c00</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrimaryLight">#D1C4E9</color>
+    <color name="intro_next">#2014EB</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="titleBar_cardview">#0277bd</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+    <color name="gray">#444440</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#80FFFFFF</color>
+    <color name="button_text_color">#4B0082</color>
+    <!--scale colors-->
+    <color name="scale_1">#ff0000</color>
+    <color name="scale_2">#ffa100</color>
+    <color name="scale_3">#e6e600</color>
+    <color name="scale_4">#91bf00</color>
+    <color name="scale_5">#008000</color>
+
+    <color name="font_black_0">#212121</color>
+    <color name="font_black_welcome">#212121</color>
+    <color name="font_black_1">#424242</color>
+    <color name="font_black_2">#616161</color>
+    <color name="font_black_3">#757575</color>
+    <color name="font_black_4">#9e9e9e</color>
+    <color name="font_black_5">#bdbdbd</color>
+    <color name="font_black_6">#e0e0e0</color>
+
+    <color name="lite_red">#F3665C</color>
+    <!--Home Screen Changes-->
+    <color name="txt_sub_header_color">#333333</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <color name="transparent_tab">#75000000</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <color name="selectediconColor">#04E1F8</color>
+    <color name="defaultIconColor">#F6F6F6</color>
+    <color name="countTextColor">#F45E08</color>
+    <color name="circlecolor">#fff</color>
+    <color name="BackgroundBottomColor">#04E1f8</color>
+    <color name="shadowcolor">#2E2E2E</color>
+</resources>

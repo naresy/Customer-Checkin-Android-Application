@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#f4f4f4"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="200sp"
+            android:layout_height="200sp"
+            android:layout_marginStart="10sp"
+            android:layout_marginTop="10sp"
+            android:layout_marginEnd="10sp"
+            android:layout_marginBottom="10sp"
+            android:src="@drawable/logo" />
+    </RelativeLayout>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/caesar_dressing"
+        android:text="Welcome To Sandy Threading"
+        android:textAlignment="center"
+        android:textStyle="italic" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10sp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/already_member"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="10sp"
+            android:background="@color/colorPrimary"
+            android:fontFamily="@font/lato"
+            android:padding="10sp"
+            android:text="Direct Check In"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/new_checkin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:fontFamily="@font/lato"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:text="New Check In"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/booking"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:background="@color/colorPrimary"
+            android:padding="8sp"
+            android:text="Already Have Online Booking"
+            android:textColor="@color/white"
+            android:fontFamily="@font/lato"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

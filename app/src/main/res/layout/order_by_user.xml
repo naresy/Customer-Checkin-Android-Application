@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/click"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Date"
+            android:layout_marginLeft="10sp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:layout_marginRight="10sp"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Time"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_height="wrap_content">
+
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/email"
+            android:hint="email"
+
+            android:layout_marginLeft="10sp"
+
+            android:layout_weight="1"
+            android:layout_marginRight="10sp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/phone"
+            android:hint="phone"
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Service"
+            android:textStyle="bold"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Staff"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+
+            android:layout_height="wrap_content">
+
+        </TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/ordername"
+            android:hint="name"
+            android:textStyle="bold"
+           android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/address"
+            android:hint="address"
+            android:textStyle="bold"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:background="@color/font_black_0"
+        android:layout_height="2sp"/>
+
+
+</LinearLayout>
