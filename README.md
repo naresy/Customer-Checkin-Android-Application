@@ -45,4 +45,12 @@
 <p>This project is licensed under the MIT License - see the <a href="https://github.com/naresy/Customer-Checkin-Android-Application/blob/main/LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Contact</h2>
-<p>For any questions or support, please contact the project maintainers or open an issue on GitHub.</p>
+<p>For any questions or support, don't hesitate to get in touch with the project maintainers or open an issue on GitHub.</p>
+<h2>Screenshots</h2>
+<p>Here are some screenshots of the Customer Check-in Android Application:</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/300x600.png?text=Screenshot+1" alt="Screenshot 1" width="300"/>
+  <img src="https://via.placeholder.com/300x600.png?text=Screenshot+2" alt="Screenshot 2" width="300"/>
+  <img src="https://via.placeholder.com/300x600.png?text=Screenshot+3" alt="Screenshot 3" width="300"/>
+</p>
