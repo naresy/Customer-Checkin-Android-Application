@@ -17,17 +17,13 @@
   <li>User-friendly interface</li>
 </ul>
 
-<h2>Project Structure</h2>
+<h3>Requirements</h3>
 <ul>
-  <li><code>.idea/</code>: IDE configuration files</li>
-  <li><code>app/</code>: Main application code</li>
-  <li><code>gradle/wrapper/</code>: Gradle wrapper files</li>
-  <li><code>.gitignore</code>: Git ignore configuration</li>
-  <li><code>build.gradle.kts</code>: Gradle build script in Kotlin</li>
-  <li><code>gradle.properties</code>: Gradle properties</li>
-  <li><code>gradlew</code>: Gradle wrapper script (Linux/Unix)</li>
-  <li><code>gradlew.bat</code>: Gradle wrapper script (Windows)</li>
-  <li><code>settings.gradle.kts</code>: Gradle settings script in Kotlin</li>
+  <li><strong>Java Development Kit (JDK):</strong> Required for developing and running the Android application. Ensure that JDK 8 or higher is installed.</li>
+  <li><strong>Android SDK:</strong> The Android Software Development Kit, including the necessary build tools, platform APIs, and system images, is required to build and test the Android application.</li>
+  <li><strong>PHP:</strong> PHP 7.0 or higher is required for the backend server scripts that handle communication between the Android app and the web server. This includes managing customer appointments, processing check-ins, and handling loyalty rewards.</li>
+  <li><strong>Web Server:</strong> A web server, such as Apache or Nginx, is needed to host the PHP scripts and serve the web interface for the appointment booking system.</li>
+  <li><strong>Database:</strong> A MySQL or MariaDB database is required to store customer information, appointment data, and loyalty rewards records. Ensure the database is properly configured and accessible by the PHP scripts.</li>
 </ul>
 
 <h2>Getting Started</h2>
