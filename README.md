@@ -8,10 +8,13 @@
 <p align="center">
   A mobile application for customer check-ins and loyalty rewards. Customers can book appointments online or check in on-site using this Android application.
 </p>
+<p align="center">
+  <strong>Explore the web version and required API for this application is here <a href="https://github.com/naresy/Beauty-Parlor">here</a>.</strong>
+</p>
 
 <h2>Features</h2>
 <ul>
-  <li>Book appointments online through a generated web link</li>
+  <li>Book appointments online through a  web Application  <a href="https://github.com/naresy/Beauty-Parlor">here</a></li>
   <li>Check in online or on-site</li>
   <li>Integrated loyalty rewards system</li>
   <li>User-friendly interface</li>
