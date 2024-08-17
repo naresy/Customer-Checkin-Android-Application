@@ -50,7 +50,7 @@
 <p>Here are some screenshots of the Customer Check-in Android Application:</p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x600.png?text=Screenshot+1" alt="Screenshot 1" width="300"/>
-  <img src="https://via.placeholder.com/300x600.png?text=Screenshot+2" alt="Screenshot 2" width="300"/>
-  <img src="https://via.placeholder.com/300x600.png?text=Screenshot+3" alt="Screenshot 3" width="300"/>
+  <img src="https://github.com/naresy/Customer-Checkin-Android-Application/blob/master/app/src/main/res/drawable/sc1.png?text=Screenshot+1" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/naresy/Customer-Checkin-Android-Application/blob/master/app/src/main/res/drawable/sc2.png?text=Screenshot+2" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/naresy/Customer-Checkin-Android-Application/blob/master/app/src/main/res/drawable/sc3.png?text=Screenshot+3" alt="Screenshot 3" width="300"/>
 </p>
